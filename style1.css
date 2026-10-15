@@ -1,0 +1,22 @@
+body {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Arial;
+  background: rgb(131, 201, 39);
+  text-align: center;
+}
+
+img{
+    height:300px;
+    width: 500px;
+}
+
+
+table,th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+
+}

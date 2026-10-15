@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  color: red;
+  font-size: 2em;
+  line-height: 1.5;
+
+}
+.mid{
+    text-align: center;
+    margin: 0;
+}
+.bigblackbutton {
+  display: block;
+  margin: 1rem 0;
+
+  line-height: 3rem;
+  background: black;
+  color: white;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  max-height: 15rem;
+}
+
+
+
